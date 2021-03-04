@@ -14,12 +14,6 @@
   <img alt="Frontend" src="https://img.shields.io/badge/web-nextjs-black">
 </p>
 
-## :computer: Web
-
-<h1 align="center">
-    <img alt="Web" src=".github/web.png" width="500px">
-</h1>
-
 ## :fire: Live Demo
 
 **[Web](https://moveit-nextjs-rust.vercel.app/)**
