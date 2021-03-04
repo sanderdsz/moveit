@@ -38,18 +38,17 @@ This project was made with the following technologies:
 1. Clone the repo :
 
 ```sh
-  $ git clone https://github.com/sanderdsz/work-orders.git
+  $ git clone https://github.com/sanderdsz/moveit
 ```
 
 2. Execute the app:
 
 ```sh
   # Install all dependencies for the web client
-  $ cd client
+  $ cd moveit
   $ npm install
 
   # Start the web application
-  $ cd ./sources/client
   $ yarn dev
 
 ```
